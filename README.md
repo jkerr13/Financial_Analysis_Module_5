@@ -2,7 +2,13 @@
 Assignment #4, Module 5 Challenge Assignment
 
 ## Notes
-Using yahoo finance instead of Alpaca as Alpaca is not currently available in Canada
+1. Using yahoo finance instead of Alpaca as Alpaca is not currently available in Canada.
+
+2. Various files show different instuctions after "Analyze the Retirement Portfolio Forecasts":
+    * The online instructions on the bootcamp website includes: 
+        * "Forecasting Cumulative Returns in 10 Years" - THIS IS WHAT I COMPLETED
+    * The uploaded README.MD file provided in gitlab and the provided jupyter lab starter file inlcudes:
+        * Optional Challenge - Early Retirement
 
 ## Background for Assignment
 You decided to start a FinTech consultancy firm, and you want to make a difference by working on projects with high social impact in local communities. You just won your first contract to help one of the biggest credit unions in your area. They want to create a tool that helps their members enhance their financial health. The Chief Technology Officer (CTO) of the credit union asked you to develop a prototype application to demo in the next credit union assembly.
